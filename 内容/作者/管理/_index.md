@@ -1,7 +1,7 @@
 ---
 # Display name
-title: 吳恩達
-name_pronunciation: Wu En da
+title: 孔振宇
+name_pronunciation: Kong Zhen Yu
 
 # Is this the primary user of the site?
 superuser: true
@@ -27,8 +27,8 @@ bio: ''
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
   - icon: envelope
-    icon_pack: fas
-    link: 'mailto:test@example.org'
+    icon_pack: E-mail
+    link: 'https://mail.qq.com/cgi-bin/frame_html?sid=i28M52n6Cfpm0lQ2&r=5931850cd2931ce9d235fcda5f5ae39a&lang=zh'
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/wowchemy
