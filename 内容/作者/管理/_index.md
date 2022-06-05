@@ -27,8 +27,8 @@ bio: ''
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
   - icon: envelope
-    icon_pack: E-mail
-    link: 'https://mail.qq.com/'
+    icon_pack: fas
+    link: 'mailto:test@example.org'
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/wowchemy
