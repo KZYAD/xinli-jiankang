@@ -28,7 +28,7 @@ bio: ''
 social:
   - icon: envelope
     icon_pack: E-mail
-    link: 'https://mail.qq.com/cgi-bin/frame_html?sid=i28M52n6Cfpm0lQ2&r=5931850cd2931ce9d235fcda5f5ae39a&lang=zh'
+    link: 'https://mail.qq.com/cgi-bin/frame_html?sid=i28M52n6Cfpm0lQ2&r=3d6afe6c54c2c7c8ace0ff4cfe6914b6&lang=zh'
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/wowchemy
