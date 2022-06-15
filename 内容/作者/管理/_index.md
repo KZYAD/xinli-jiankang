@@ -29,9 +29,9 @@ social:
   - icon: envelope
     icon_pack: fas
     link: 'mailto:test@example.org'
-  - icon: twitter
+  - icon: E-mial
     icon_pack: fab
-    link: https://twitter.com/wowchemy
+    link: https://mail.qq.com/
   - icon: instagram
     icon_pack: fab
     link: https://www.instagram.com/spacex/
